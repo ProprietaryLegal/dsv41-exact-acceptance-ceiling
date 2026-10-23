@@ -1,0 +1,17 @@
+PLI Labs — dsv41-exact-acceptance-ceiling
+Copyright 2026 Proprietary Legal Intelligence LLC
+
+PLI Labs analysis and capture-reader code is distributed under Apache-2.0.
+The shipped tree contains d1/ceiling.py, d1/exact_ceiling.py, package markers,
+verify/captures.py, and aggregate JSON results. No vendored third-party source,
+upstream patch set, or third-party LICENSE, NOTICE, or COPYING file is present
+in this entry's code directory.
+
+PyTorch and safetensors are imported dependencies, installed separately; their
+licences apply to their own distributions. DeepSeek target/drafter tensors and
+reference dumps are external inputs, not components shipped in this repository.
+No model weights, captures, prompts, token sequences, or reference dumps are
+licensed or redistributed by this release.
+
+The complete Apache-2.0 licence for the PLI Labs material in this package is
+in LICENSES/Apache-2.0.txt. External dependencies are not redistributed here.
